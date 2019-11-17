@@ -1,2 +1,1 @@
-# Homework
-Homework submissions
+First homework submission
